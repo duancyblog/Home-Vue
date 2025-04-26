@@ -1,10 +1,10 @@
 ## 个人主页
 
-基于Vue的个人主页，刚接触Vue不太会用各种插件，代码有点难看，大佬们见谅
+基于Vue的个人主页，刚接触Vue不太会用各种插件，代码有点难看，大佬们见谅,这也是从别人仓库Fork过来的
 
 ### Demo
 
-- [预览](https://bsgun.cn)
+- [预览](https://home.allen2030.com)
 
 ### 修改
 
@@ -32,9 +32,3 @@ npm run dev
 npm run build
 ```
 > 构建完成后，静态资源会在 **`dist` 目录** 中生成，可将 **`dist` 文件夹下的文件**上传至服务器，也可使用 `Vercel` 等托管平台一键导入并自动部署
-
-### Vercle部署
-
->点击后自动部署并创建仓库
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JLinMr/Home-Vue&repository-name=Home-Vue)
